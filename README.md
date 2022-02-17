@@ -28,6 +28,8 @@ Mask Your Phishing Link Using Cyber-Nirob-Real-Target-Phishing-Mask Tool Create 
 
 
  bash setup.sh
+ 
+ ShortUrl
 
 # All pkg install Done! Run The Command To Open Cyber-Nirob-Real-Target-Phishing-Mask Tool
 
